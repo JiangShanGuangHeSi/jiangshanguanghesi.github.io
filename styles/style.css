@@ -103,6 +103,10 @@ article {
   flex: 4;
 }
 
+pre {
+  font-size: 20px;
+}
+
 aside {
   flex: 1;
   margin-left: 10px;
